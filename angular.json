@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-face-detection"
+    }
+  },
+  "defaultProject": "angular-face-detection",
+  "cli": {
+    "analytics": false
+  }
 }
